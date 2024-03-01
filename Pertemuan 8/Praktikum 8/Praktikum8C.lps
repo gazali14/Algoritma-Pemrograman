@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Praktikum8C.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="32" Y="19"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="12">
+      <Position>
+        <Filename Value="Praktikum8C.pas"/>
+        <Caret Line="15" Column="46"/>
+      </Position>
+      <Position>
+        <Filename Value="Praktikum8C.pas"/>
+        <Caret Line="14" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="Praktikum8C.pas"/>
+        <Caret Line="15" Column="45"/>
+      </Position>
+      <Position>
+        <Filename Value="Praktikum8C.pas"/>
+        <Caret Line="14" Column="41"/>
+      </Position>
+      <Position>
+        <Filename Value="Praktikum8C.pas"/>
+        <Caret Line="15" Column="48"/>
+      </Position>
+      <Position>
+        <Filename Value="Praktikum8C.pas"/>
+        <Caret Line="9" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="Praktikum8C.pas"/>
+        <Caret Line="14" Column="45"/>
+      </Position>
+      <Position>
+        <Filename Value="Praktikum8C.pas"/>
+        <Caret Line="12" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="Praktikum8C.pas"/>
+        <Caret Line="16" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="Praktikum8C.pas"/>
+        <Caret Line="8" Column="47"/>
+      </Position>
+      <Position>
+        <Filename Value="Praktikum8C.pas"/>
+        <Caret Line="13" Column="7"/>
+      </Position>
+      <Position>
+        <Filename Value="Praktikum8C.pas"/>
+        <Caret Line="3" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="Praktikum8C.pas"/>
+        <Caret Line="7" Column="28"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

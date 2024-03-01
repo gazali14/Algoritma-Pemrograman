@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="konversiNilaiCase.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="3"/>
+        <CursorPos X="11" Y="29"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="konversiNilaiCase.pas"/>
+        <Caret Line="3" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="konversiNilaiCase.pas"/>
+        <Caret Line="29" Column="52"/>
+      </Position>
+      <Position>
+        <Filename Value="konversiNilaiCase.pas"/>
+        <Caret Line="27" Column="13" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="konversiNilaiCase.pas"/>
+        <Caret Line="12" Column="15" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="konversiNilaiCase.pas"/>
+        <Caret Line="32" Column="16" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="konversiNilaiCase.pas"/>
+        <Caret Line="30" Column="50" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="konversiNilaiCase.pas"/>
+        <Caret Line="13" Column="16"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

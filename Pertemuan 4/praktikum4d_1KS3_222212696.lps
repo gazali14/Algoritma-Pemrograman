@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="praktikum4d_1KS3_222212696.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="61" Y="20"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="2">
+      <Position>
+        <Filename Value="praktikum4d_1KS3_222212696.pas"/>
+        <Caret Line="13" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="praktikum4d_1KS3_222212696.pas"/>
+        <Caret Line="14" Column="8"/>
+      </Position>
+      <Position>
+        <Filename Value="praktikum4d_1KS3_222212696.pas"/>
+        <Caret Line="20" Column="23"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11G.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="40"/>
+        <CursorPos X="66" Y="54"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="14">
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11G.pas"/>
+        <Caret Line="35" Column="116"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11G.pas"/>
+        <Caret Line="34" Column="8" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11G.pas"/>
+        <Caret Line="4" Column="22"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11G.pas"/>
+        <Caret Line="103" Column="31" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11G.pas"/>
+        <Caret Line="77" Column="37" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11G.pas"/>
+        <Caret Line="79" Column="22" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11G.pas"/>
+        <Caret Line="78" Column="18" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11G.pas"/>
+        <Caret Line="32" Column="28" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11G.pas"/>
+        <Caret Line="77" Column="29" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11G.pas"/>
+        <Caret Line="35" Column="39" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11G.pas"/>
+        <Caret Line="15" Column="25"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11G.pas"/>
+        <Caret Line="126" Column="25" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11G.pas"/>
+        <Caret Line="23" Column="26"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11G.pas"/>
+        <Caret Line="59" Column="43" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11G.pas"/>
+        <Caret Line="16" Column="39"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

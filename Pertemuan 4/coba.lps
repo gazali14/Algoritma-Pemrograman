@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="coba.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="struktur_if_then_else_nested"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="3"/>
+        <CursorPos X="13" Y="32"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="4">
+      <Position>
+        <Filename Value="coba.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="coba.pas"/>
+        <Caret Line="13" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="coba.pas"/>
+        <Caret Line="12" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="coba.pas"/>
+        <Caret Line="10" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="coba.pas"/>
+        <Caret Line="16" Column="13"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11F.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="62"/>
+        <CursorPos X="25" Y="83"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="5">
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11F.pas"/>
+        <Caret Line="13" Column="27"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11F.pas"/>
+        <Caret Line="64" Column="31" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11F.pas"/>
+        <Caret Line="30" Column="8" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11F.pas"/>
+        <Caret Line="48" Column="39" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11F.pas"/>
+        <Caret Line="81" Column="11" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="Gazali_1KS3_222212696_praktikum11F.pas"/>
+        <Caret Line="71" TopLine="61"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

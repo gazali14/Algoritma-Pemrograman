@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="praktikum9a_1KS3_222212696.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="78"/>
+        <CursorPos X="15" Y="114"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="praktikum9a_1KS3_222212696.pas"/>
+        <Caret Line="105" Column="11" TopLine="72"/>
+      </Position>
+      <Position>
+        <Filename Value="praktikum9a_1KS3_222212696.pas"/>
+        <Caret Line="26" Column="19" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="praktikum9a_1KS3_222212696.pas"/>
+        <Caret Line="12" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="praktikum9a_1KS3_222212696.pas"/>
+        <Caret Line="96" Column="21" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="praktikum9a_1KS3_222212696.pas"/>
+        <Caret Line="35" Column="15" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="praktikum9a_1KS3_222212696.pas"/>
+        <Caret Line="38" Column="17" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="praktikum9a_1KS3_222212696.pas"/>
+        <Caret Line="6" Column="13"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

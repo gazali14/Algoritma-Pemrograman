@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="repat_until.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="memilih_menu"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="39" Y="18"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="11">
+      <Position>
+        <Filename Value="repat_until.pas"/>
+        <Caret Line="13" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="repat_until.pas"/>
+        <Caret Line="10" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="repat_until.pas"/>
+        <Caret Line="3" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="repat_until.pas"/>
+        <Caret Line="12" Column="31"/>
+      </Position>
+      <Position>
+        <Filename Value="repat_until.pas"/>
+        <Caret Line="16" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="repat_until.pas"/>
+        <Caret Line="3" Column="26"/>
+      </Position>
+      <Position>
+        <Filename Value="repat_until.pas"/>
+        <Caret Line="7" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="repat_until.pas"/>
+        <Caret Line="15" Column="22"/>
+      </Position>
+      <Position>
+        <Filename Value="repat_until.pas"/>
+        <Caret Line="16" Column="23"/>
+      </Position>
+      <Position>
+        <Filename Value="repat_until.pas"/>
+        <Caret Line="14" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="repat_until.pas"/>
+        <Caret Line="16" Column="25"/>
+      </Position>
+      <Position>
+        <Filename Value="repat_until.pas"/>
+        <Caret Line="13" Column="17"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
